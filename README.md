@@ -74,3 +74,10 @@ Con el objetivo de facilitar varias posibilidades de diseño en los diferentes s
 También se puede encontrar la **ficha de identidad visual** en formato pdf que constituye una **guía básica para la aplicación de la marca** a través del correcto uso de sus signos de identidad visual. 
 
 ![Image of Yaktocat](https://github.com/VigoTech/design/blob/master/i/ficha-identidad-mq.png?raw=true)
+
+
+
+# Redes sociales
+
+En la carpeta **02 RRSS** encontraremos los elementos necesarios para personalizar las redes sociales en las que **VigoTech Alliance** esté presente.
+![Image of Yaktocat](https://github.com/VigoTech/Design-elements/blob/master/i/Mock-up%20Perfil_twitter%202017.jpg?raw=true)
