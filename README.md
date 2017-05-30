@@ -81,3 +81,21 @@ También se puede encontrar la **ficha de identidad visual** en formato pdf que 
 
 En la carpeta **02 RRSS** encontraremos los elementos necesarios para personalizar las redes sociales en las que **VigoTech Alliance** esté presente.
 ![Image of Yaktocat](https://github.com/VigoTech/Design-elements/blob/master/i/Mock-up%20Perfil_twitter%202017.jpg?raw=true)
+
+
+# Elementos corporativos
+
+En la carpeta **03 ELEMENTOS** encontraremos los diseños seleccionados para varios soportes publicitarios.
+
+
+## Ploter roller
+
+Ploter desplegable de tamaño de 206x85cm. Artefinal en formato jpg con 5cm de sangre. 
+
+![Image of Yaktocat](https://github.com/VigoTech/Design-elements/blob/master/03%20ELEMENTOS/PLOTER%20CORPORATIVO/ROLLER%20206X85/01.jpg?raw=true)
+
+## Adhesivos
+
+Adhesivo Hexagonal de tamaño 51x44. Pantone directo 198c. Margen exterior blanco. Marcas de corte incluidas. Archivo vectorial Adobe Illustrator CS5 y pdf editable.
+
+![Image of Yaktocat](https://github.com/VigoTech/Design-elements/blob/master/03%20ELEMENTOS/ADHESIVOS/HEXAGONAL%2051x44/Boceto.jpg?raw=true)
