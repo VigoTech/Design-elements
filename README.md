@@ -90,12 +90,18 @@ En la carpeta **03 ELEMENTOS** encontraremos los diseños seleccionados para var
 
 ## Ploter roller
 
-Ploter desplegable de tamaño de 206x85cm. Artefinal en formato jpg con 5cm de sangre. 
+Ploter desplegable de **tamaño de 206x85 cm**. Artefinal en formato jpg con **5 mm de sangre**. 
 
 ![Image of Yaktocat](https://github.com/VigoTech/Design-elements/blob/master/03%20ELEMENTOS/PLOTER%20CORPORATIVO/ROLLER%20206X85/01.jpg?raw=true)
 
 ## Adhesivos
 
-Adhesivo Hexagonal de tamaño 51x44. Pantone directo 198c. Margen exterior blanco. Marcas de corte incluidas. Archivo vectorial Adobe Illustrator CS5 y pdf editable.
+Adhesivo Hexagonal de **tamaño 51x44**. **Pantone 198c**. ** exterior blanco**. **Marcas de corte** incluidas. Archivo vectorial **Adobe Illustrator CS5 y pdf** editable.
 
 ![Image of Yaktocat](https://github.com/VigoTech/Design-elements/blob/master/03%20ELEMENTOS/ADHESIVOS/HEXAGONAL%2051x44/Boceto.jpg?raw=true)
+
+## Flyer corporativo
+
+Flyer corporativo en **formato A5** para impresión en **cuatricromía** por ambos lados. **Sangre de 5 mm**. Se incluyen **dos archivos JPG artefinal** independientes para la portada y para la contra.
+
+![Image of Yaktocat](https://github.com/VigoTech/Design-elements/blob/master/03%20ELEMENTOS/FLYER%20CORPORATIVO/boceto.jpg?raw=true)
